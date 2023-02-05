@@ -1,0 +1,2 @@
+# djwithmysql
+django with mysql 
